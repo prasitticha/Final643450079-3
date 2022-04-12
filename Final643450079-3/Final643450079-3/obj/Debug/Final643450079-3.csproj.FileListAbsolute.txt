@@ -1,0 +1,11 @@
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\bin\Debug\Final643450079-3.exe.config
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\bin\Debug\Final643450079-3.exe
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\bin\Debug\Final643450079-3.pdb
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\obj\Debug\Final643450079-3.csproj.AssemblyReference.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\obj\Debug\Final643450079-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\obj\Debug\Final643450079_3.Properties.Resources.resources
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\obj\Debug\Final643450079-3.csproj.GenerateResource.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\obj\Debug\Final643450079-3.csproj.CoreCompileInputs.cache
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\obj\Debug\Final643450079-3.exe
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\obj\Debug\Final643450079-3.pdb
+C:\Users\Prasittichai Jansom\Documents\GitHub\Final643450079-3\Final643450079-3\Final643450079-3\obj\Debug\Final643450079_3.Form1.resources
